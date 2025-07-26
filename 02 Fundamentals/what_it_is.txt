@@ -1,0 +1,6 @@
+Q1. What is system design?
+Answer: It is the architecture of a software application, where we desing it taking care of its performance, realibility, performance, security etc.
+
+Q2. what are the types of system desings?
+Answer: HLD: High level Design
+        LLD: Low level Design
